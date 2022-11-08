@@ -926,7 +926,7 @@ video {
 
 .main-banner {
   height: 450px;
-  background-image: url(/img/contato-canto-da-floresta-ecoresort.jpeg);
+  background-image: url(../img/contato-canto-da-floresta-ecoresort.jpeg);
   background-repeat: no-repeat;
 }
 
@@ -946,20 +946,6 @@ video {
 .hover\:bg-yellow-400:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(250 204 21 / var(--tw-bg-opacity));
-}
-
-.hover\:text-end:hover {
-  text-align: end;
-}
-
-.hover\:text-xs:hover {
-  font-size: 0.75rem;
-  line-height: 1rem;
-}
-
-.hover\:text-xl:hover {
-  font-size: 1.25rem;
-  line-height: 1.75rem;
 }
 
 .hover\:opacity-90:hover {
